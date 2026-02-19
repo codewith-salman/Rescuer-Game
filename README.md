@@ -78,7 +78,6 @@ This is a **front-end only game project**, built for learning, experimentation, 
 - Smooth player movement and controls  
 - Mission-oriented game mechanics  
 - Simple and engaging UI design  
-- Responsive game layout  
 - Lightweight and fast performance  
 - Easy to expand with new levels  
 
