@@ -21,7 +21,6 @@
 <img src="Rescuer%20Game/images/logo.png" alt="Rescuer Game Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🚑 Rescuer Game</h1>
 
@@ -68,8 +67,6 @@ Ideal for:
 
 This is a **front-end only game project**, built for learning, experimentation, and portfolio showcasing.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -81,8 +78,6 @@ This is a **front-end only game project**, built for learning, experimentation, 
 - Lightweight and fast performance  
 - Easy to expand with new levels  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -92,8 +87,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
