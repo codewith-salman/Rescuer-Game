@@ -55,8 +55,7 @@ The game focuses on smooth gameplay mechanics, simple controls, and visually cle
 
 This project highlights:
 - JavaScript-based game logic  
-- Player movement and control handling  
-- Interactive UI elements  
+- Player movement and control handling 
 - Mission-driven gameplay mechanics  
 
 Ideal for:
